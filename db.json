@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "name": "Turtle",
+      "email": "turtle@gmail.com",
+      "phone": "0987654321",
+      "role": "user",
+      "password": "turtle123",
+      "id": "s1wZNtN296Y"
+    },
+    {
+      "name": "User",
+      "email": "user@gmail.com",
+      "phone": "9988776655",
+      "role": "user",
+      "password": "user123",
+      "id": "5fd7LBd14d0"
+    },
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "phone": "9911223344",
+      "role": "admin",
+      "password": "admin123",
+      "id": "q1hmkjWLM_o"
+    }
+  ],
+  "products": [
+    {
+      "image": "https://i.pinimg.com/736x/5e/ab/c7/5eabc7f0a84f90bcd29cda611e20fcbc.jpg",
+      "name": "Go Pro",
+      "price": "60000",
+      "category": "Tech",
+      "stock": 10,
+      "id": "PYoQlYvZ_IE"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/4b/2f/74/4b2f746777e111c34cb51e879c10ee4e.jpg",
+      "name": "Porche Model ",
+      "price": "50000",
+      "category": "Toy",
+      "stock": "",
+      "id": "yxF_macKtzU"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/f9/68/50/f968503772e8990debbab67be676ada2.jpg",
+      "name": "Nike Shoes",
+      "price": "1999",
+      "category": "Sports Shoes",
+      "stock": "8",
+      "id": "u97FNsfDwdo"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/67/3b/1b/673b1b389b7910bd0ada59f3d063029d.jpg",
+      "name": "Watch",
+      "price": "2999",
+      "category": "Accessories",
+      "stock": "199",
+      "id": "CQOOTml8vLI"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/74/11/51/741151812e4bce819f770f0f44de0581.jpg",
+      "name": "Branded Headphone",
+      "price": "5999",
+      "category": "Gadget",
+      "stock": "49",
+      "id": "Ua1AW7alCy0"
+    },
+    {
+      "image": "https://i.pinimg.com/1200x/68/16/98/681698f5888afe99f1a9e52e738b510d.jpg",
+      "name": "Branded Clothes Set",
+      "price": "1999",
+      "category": "Fashion",
+      "stock": "29",
+      "id": "llp-0_YzprU"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/c9/98/be/c998be27018535e2bd92ce9c0d787fb4.jpg",
+      "name": "Keyboard",
+      "price": "3999",
+      "category": "Tech",
+      "stock": "15",
+      "id": "c6Q9YMUlA0c"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/11/74/66/117466471d3e121b2d58aeccc9405f5b.jpg",
+      "name": "Arc Graphic Card",
+      "price": "70000",
+      "category": "Gadget",
+      "stock": "5",
+      "id": "wkoQJBuaVnM"
+    },
+    {
+      "image": "https://i.pinimg.com/1200x/9f/cf/d5/9fcfd58c6d79359170b1d40624b22967.jpg",
+      "name": "T-Shirt",
+      "price": "500",
+      "category": "Fashion",
+      "stock": "300",
+      "id": "_iQMzy8vHPA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
